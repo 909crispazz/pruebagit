@@ -1,0 +1,38 @@
+        /*
+        contenido: F5DA27
+        general: F52727
+        equivalente: F57D27
+        */
+        body { 
+            width: 70%;
+            margin: 0 auto;
+        }
+       
+        div{
+             border: 2px solid gray;
+        }
+        h1{
+            font-family: 'Times New Roman', Times, serif;
+           /* font-family: Arial, Helvetica, sans-serif;*/
+           /*font-family: 'Courier New', Courier, monospace;*/
+           font-size: 3em;
+           text-align: center;
+           letter-spacing: 4px;
+           image-orientation: flip;
+        }
+        p{
+            line-height: 1.5em;
+            text-indent: 4em;
+            padding: 0 4em;
+            text-align: justify;
+        }
+        #contenido{
+            background-color: #27f557;
+
+        }
+        #general{
+            background-color: #abb006;
+        }
+        #equivalentes{
+            background-color: #46f527;
+        }
